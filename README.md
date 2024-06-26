@@ -86,7 +86,8 @@
     - Fairness Tree
     - Redes neuronales adversariales para mitigar proxies
     - Individual Fairness
-
+## Pagina de la catedra
+https://organizacion-de-datos-7506-argerich.github.io/
 ## TPs realizados durante la materia
 ## Integrates:  
 Dominguez Gonzalo Alejo 109759  
